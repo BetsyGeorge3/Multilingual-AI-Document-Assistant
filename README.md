@@ -65,7 +65,7 @@ Multilingual-AI-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multilingual-ai-assistant.git
+git clone https://github.com/yBetsyGeorge3/multilingual-ai-assistant.git
 cd multilingual-ai-assistant
 ```
 
